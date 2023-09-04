@@ -8,3 +8,5 @@ To run the code, you can run:
 4. conversation.m and dynamic_pattern.m in file "Chap5": simulation of dynamic beam pattern varying with time, and the simulation of two talker conversation scenario.
 5. RUNMe.m in file "Chap6": frequency independent beamformer
 6. any .m file in file "draft", where is some draft codes about DSB, MVDR, LCMV (note: some codes may not work)
+
+need RIR generator and Voicebox in MATLAB
